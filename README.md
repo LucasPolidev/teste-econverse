@@ -50,7 +50,8 @@ src/
 ├── data/
 ├── types/
 ├── App.tsx
-🎯 Funcionalidades
+
+Funcionalidades:
 
 Grid responsivo de produtos
 
