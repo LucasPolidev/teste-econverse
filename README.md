@@ -1,149 +1,84 @@
-# Teste Econverse - Vaga Desenvolvedor Front-End
+Teste Técnico – Desenvolvedor Front-End | Econverse
 
-Este projeto foi desenvolvido como parte do processo seletivo para a vaga de Desenvolvedor Front-End na Econverse.
+Aplicação desenvolvida como parte do processo seletivo para a vaga de Desenvolvedor Front-End na Econverse.
 
-## 📋 Descrição
+🔗 Repositório: https://github.com/LucasPolidev/teste-econverse
+🌐 Deploy: https://vercel.com/lucaspolidevs-projects/teste-econverse
 
-Aplicação React + TypeScript que implementa uma vitrine de produtos com as seguintes funcionalidades:
+📌 Sobre o Projeto:
 
-- Exibição de produtos em grid responsivo
-- Modal interativo com detalhes do produto
-- Consumo de dados via arquivo JSON
-- Estilos com SASS
-- HTML semântico e boas práticas de SEO
+Desenvolvimento de uma vitrine de produtos utilizando React + TypeScript, com foco em:
 
-## 🛠️ Tecnologias Utilizadas
+Componentização escalável
 
-- **React 18** - Biblioteca JavaScript para construção de interfaces
-- **TypeScript** - Superset JavaScript para tipagem estática
-- **SASS** - Pré-processador CSS para estilos
-- **HTML5 Semântico** - Estrutura acessível e otimizada para SEO
+Código tipado e seguro
 
-## 📁 Estrutura do Projeto
+Boas práticas de SEO
 
-```
+Acessibilidade
+
+Performance e organização:
+
+A aplicação consome dados de um arquivo JSON local e apresenta os produtos em um layout responsivo com modal interativo para visualização de detalhes.
+
+🚀 Tecnologias Utilizadas
+
+React 18
+
+TypeScript
+
+SASS (SCSS)
+
+HTML5 Semântico
+
+Create React App
+
+🧱 Arquitetura:
+
+O projeto foi estruturado priorizando:
+
+Separação clara de responsabilidades
+
+Componentes reutilizáveis
+
+Tipagem centralizada
+
+Organização escalável de pastas
+
 src/
 ├── components/
-│   ├── ProductCard/          # Card individual do produto
-│   ├── ProductModal/         # Modal com detalhes do produto
-│   └── ProductShowcase/      # Grid principal de produtos
 ├── data/
-│   └── products.json         # Dados dos produtos
 ├── types/
-│   └── Product.ts            # Tipagem TypeScript
-├── App.tsx                   # Componente principal
-└── App.scss                  # Estilos globais
-```
+├── App.tsx
+🎯 Funcionalidades
 
-## 🚀 Como Executar
+Grid responsivo de produtos
 
-### Pré-requisitos
+Modal com detalhes completos
 
-- Node.js (versão 16 ou superior)
-- npm ou yarn
+Estrutura tipada com TypeScript
 
-### Instalação
+Layout adaptável para mobile
 
-1. Clone o repositório:
-```bash
-git clone <URL-do-repositorio>
-cd teste-econverse
-```
+Organização seguindo boas práticas de componentização
 
-2. Instale as dependências:
-```bash
+📦 Como Executar
 npm install
-```
-
-### Executando o Projeto
-
-#### Modo Desenvolvimento
-```bash
 npm start
-```
-A aplicação será iniciada em `http://localhost:3000`
+💡 Diferenciais Técnicos
 
-#### Build para Produção
-```bash
-npm run build
-```
-Os arquivos otimizados serão gerados na pasta `build/`
+Uso de tipagem forte com TypeScript
 
-#### Executar Testes
-```bash
-npm test
-```
+Separação modular de componentes
 
-## 🎯 Funcionalidades Implementadas
+Estrutura preparada para escalabilidade
 
-### ✅ Requisitos Obrigatórios
+Organização pensada para manutenção futura
 
-- [x] Projeto React + TypeScript
-- [x] Vitrine de produtos consumindo JSON
-- [x] Modal interativo com detalhes
-- [x] Uso de pré-processador SASS
-- [x] Layout responsivo
-- [x] Componentização
+Código limpo e legível
 
-### ✅ Pontos Extras
+👨‍💻 Desenvolvedor
 
-- [x] Boas práticas de SEO
-- [x] HTML semântico
-- [x] Acessibilidade
-- [x] Performance otimizada
-
-## 📱 Compatibilidade
-
-- Chrome/Chromium (últimas versões)
-- Firefox (últimas versões)
-- Safari (últimas versões)
-- Edge (últimas versões)
-- Navegadores móveis
-
-## 🎨 Design
-
-A aplicação segue princípios de design moderno com:
-
-- Layout limpo e responsivo
-- Cores consistentes com a marca Econverse
-- Tipografia legível
-- Interações suaves e feedback visual
-
-## 📊 Estrutura de Dados
-
-Os produtos seguem a seguinte estrutura:
-
-```typescript
-interface Product {
-  id: number;
-  name: string;
-  price: number;
-  image: string;
-  description: string;
-  category: string;
-  sizes?: string[];
-  colors: string[];
-}
-```
-
-## 🔧 Configuração
-
-O projeto utiliza configuração padrão do Create React App com as seguintes personalizações:
-
-- SASS configurado para processamento de estilos
-- TypeScript para tipagem segura
-- Import de arquivos JSON habilitado
-
-## 📝 Notas de Desenvolvimento
-
-- Componentes desenvolvidos following atomic design principles
-- Código modular e reutilizável
-- Performance otimizada com lazy loading
-- Tratamento de erros implementado
-- Loading states para melhor UX
-
----
-
-**Desenvolvido por:** [Seu Nome]  
-**Data:** Março 2026  
-**Propósito:** Teste prático para vaga Front-End na Econverse
+Lucas Poli
+Front-End Developer
+Março 2026
