@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro Max",
+    "price": 8999.00,
+    "oldPrice": 9999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "CELULAR"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14 Pro",
+    "price": 9499.00,
+    "oldPrice": 10499.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "CELULAR"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 15 Pro",
+    "price": 10999.00,
+    "oldPrice": 11999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "CELULAR"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 12",
+    "price": 6999.00,
+    "oldPrice": 7999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "CELULAR"
+  },
+  {
+    "id": 5,
+    "name": "Fone de Ouvido Bluetooth",
+    "price": 299.00,
+    "oldPrice": 399.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "ACESSÓRIOS"
+  },
+  {
+    "id": 6,
+    "name": "Capinha iPhone",
+    "price": 89.00,
+    "oldPrice": 129.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "ACESSÓRIOS"
+  },
+  {
+    "id": 7,
+    "name": "Carregador Rápido",
+    "price": 149.00,
+    "oldPrice": 199.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "ACESSÓRIOS"
+  },
+  {
+    "id": 8,
+    "name": "Cabo USB-C",
+    "price": 59.00,
+    "oldPrice": 99.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "ACESSÓRIOS"
+  },
+  {
+    "id": 9,
+    "name": "iPad Air",
+    "price": 4999.00,
+    "oldPrice": 5999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TABLETS"
+  },
+  {
+    "id": 10,
+    "name": "iPad Pro",
+    "price": 7999.00,
+    "oldPrice": 8999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TABLETS"
+  },
+  {
+    "id": 11,
+    "name": "iPad Mini",
+    "price": 3999.00,
+    "oldPrice": 4499.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TABLETS"
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy Tab",
+    "price": 2999.00,
+    "oldPrice": 3999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TABLETS"
+  },
+  {
+    "id": 13,
+    "name": "MacBook Air",
+    "price": 9999.00,
+    "oldPrice": 11999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "NOTEBOOKS"
+  },
+  {
+    "id": 14,
+    "name": "MacBook Pro",
+    "price": 14999.00,
+    "oldPrice": 17999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "NOTEBOOKS"
+  },
+  {
+    "id": 15,
+    "name": "Laptop Dell",
+    "price": 4999.00,
+    "oldPrice": 5999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "NOTEBOOKS"
+  },
+  {
+    "id": 16,
+    "name": "Laptop Lenovo",
+    "price": 3999.00,
+    "oldPrice": 4999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "NOTEBOOKS"
+  },
+  {
+    "id": 17,
+    "name": "TV 4K LG",
+    "price": 2499.00,
+    "oldPrice": 3499.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TVS"
+  },
+  {
+    "id": 18,
+    "name": "TV QLED Samsung",
+    "price": 3999.00,
+    "oldPrice": 4999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TVS"
+  },
+  {
+    "id": 19,
+    "name": "TV LED Philco",
+    "price": 1499.00,
+    "oldPrice": 1999.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TVS"
+  },
+  {
+    "id": 20,
+    "name": "Smart TV TCL",
+    "price": 1999.00,
+    "oldPrice": 2499.00,
+    "image": "/iphone.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "TVS"
+  }
+]
