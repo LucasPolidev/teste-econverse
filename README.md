@@ -2,10 +2,10 @@ Teste Técnico – Desenvolvedor Front-End | Econverse
 
 Aplicação desenvolvida como parte do processo seletivo para a vaga de Desenvolvedor Front-End na Econverse.
 
-🔗 Repositório: https://github.com/LucasPolidev/teste-econverse
-🌐 Deploy: https://vercel.com/lucaspolidevs-projects/teste-econverse
+Repositório: https://github.com/LucasPolidev/teste-econverse
+Deploy: https://vercel.com/lucaspolidevs-projects/teste-econverse
 
-📌 Sobre o Projeto:
+Sobre o Projeto:
 
 Desenvolvimento de uma vitrine de produtos utilizando React + TypeScript, com foco em:
 
@@ -21,7 +21,7 @@ Performance e organização:
 
 A aplicação consome dados de um arquivo JSON local e apresenta os produtos em um layout responsivo com modal interativo para visualização de detalhes.
 
-🚀 Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 React 18
 
@@ -33,7 +33,7 @@ HTML5 Semântico
 
 Create React App
 
-🧱 Arquitetura:
+Arquitetura:
 
 O projeto foi estruturado priorizando:
 
@@ -62,10 +62,11 @@ Layout adaptável para mobile
 
 Organização seguindo boas práticas de componentização
 
-📦 Como Executar
+Como Executar:
 npm install
 npm start
-💡 Diferenciais Técnicos
+
+Diferenciais Técnicos:
 
 Uso de tipagem forte com TypeScript
 
@@ -77,7 +78,7 @@ Organização pensada para manutenção futura
 
 Código limpo e legível
 
-👨‍💻 Desenvolvedor
+Desenvolvedor:
 
 Lucas Poli
 Front-End Developer
